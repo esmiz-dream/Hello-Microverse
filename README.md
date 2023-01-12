@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+ 
   <br/>
 
   <h3><b>HELLO-Microverse </b></h3>
@@ -97,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
@@ -107,13 +107,14 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
+to setup git, github and code editor.
 
 <!--
 Example command:
@@ -139,7 +140,7 @@ Example commands:
 ### Install
 
 Install this project with:
-
+git and github
 <!--
 Example command:
 
@@ -151,7 +152,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, open your live server and open the link you live server gives you
 
 <!--
 Example command:
@@ -161,10 +162,7 @@ Example command:
 ```
 --->
 
-### Run tests
-
-To run tests, run the following command:
-
+ 
 <!--
 Example command:
 
@@ -176,6 +174,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
+any types of web server,
 
 <!--
 Example:
@@ -191,19 +190,16 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
+ 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/esmiz-dream)
+ 
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/huseyinbiyik)
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,7 +207,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+ 
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -233,9 +229,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+ 
 
-If you like this project...
+If you like this project please feel free to contribute any point, that will help me contributing more for the world.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,34 +239,15 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+ 
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+I would like to thank Microvers and took me this full stack developer module.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
+ 
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
