@@ -33,7 +33,10 @@ After you're finished please remove all the comments and instructions!
   <h3><b>HELLO-Microverse </b></h3>
 
 </div>
-
+git branch -m feature_1 add-home-styleing
+git fetch origin
+git branch -u origin/add-home-styleing add-home-styleing
+git remote set-head origin -a
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
