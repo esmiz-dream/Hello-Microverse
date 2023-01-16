@@ -33,10 +33,7 @@ After you're finished please remove all the comments and instructions!
   <h3><b>HELLO-Microverse </b></h3>
 
 </div>
-git branch -m feature_1 add-home-styleing
-git fetch origin
-git branch -u origin/add-home-styleing add-home-styleing
-git remote set-head origin -a
+ 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -88,11 +85,11 @@ git remote set-head origin -a
 
 ### Key Features <a name="key-features"></a>
 
->I have 3 feature called UI_structure, Styiling, add_gitignor
+>I have the following features
 
-- **[UI_structure]**
-- **[Styiling]**
-- **[add_gitignor]**
+- **[html and css setup]**
+- **[linter setup]**
+- **[add gitignor]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,9 +196,7 @@ Example:
 - GitHub: [@githubhandle](https://github.com/esmiz-dream)
  
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/huseyinbiyik)
+ 
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -212,9 +207,9 @@ Example:
 
  
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[html and css setup]**
+- [ ] **[linter setup]**
+- [ ] **[add gitignore]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
